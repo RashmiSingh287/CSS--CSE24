@@ -1,0 +1,32 @@
+h1{
+    color:black ;
+    text-align: center;
+    background-color:lightgreen;
+    font size: 20px;
+}
+p{
+    color:lightgreen;
+    
+}
+.jk{
+    color: yellowgreen;
+}
+body{
+    background-color: lightpink;
+    text-align: center;
+}
+#rs{
+    color:magenta;
+}
+p{
+    background-color:lightblue;
+    text-align: center;
+}
+div{
+    height: 500px;
+    width: 300px;
+    background-color: cyan;
+    border:100px solid black;
+    padding: 10px;
+    margin: 5px;
+}
