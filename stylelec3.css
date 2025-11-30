@@ -1,0 +1,17 @@
+#box1{
+    border: 10px solid black;
+    height:250px;
+    width: 600px; 
+    margin: 150px;
+
+
+}
+#box2{
+    background-color: rgb(74, 74, 188);
+    padding: 30px;
+    
+    
+}
+#box3{
+    background-color: rgb(14, 80, 14);
+}

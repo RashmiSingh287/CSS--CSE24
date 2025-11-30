@@ -1,0 +1,54 @@
+#box1{
+    width:auto;
+    height: auto;
+    color: black;
+text-align:left;
+
+    border: 10px wavy black;
+    margin:5px;
+    border-radius: 2px; 
+    display: block;
+    background-color: rgb(78, 238, 134); 
+
+    padding-right: 300px;
+    
+   
+    
+
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    color: black;
+    text-decoration: underline;
+    text-shadow: 20px;
+}
+body{
+    background-color:lightgreen ;
+} 
+b{
+    text-align: center;
+    text-decoration: double;
+    text-shadow: 0cm;
+    color: darkgreen;
+}
+#box2{
+    background-color: rgb(75, 252, 95);
+    text-decoration: wavy;
+    text-shadow: 1px;
+    font-family: cursive;
+
+
+}
+#box3{
+    background-color: rgb(67, 247, 79);
+    font-family: cursive italic;
+
+ text-shadow: 5px;
+
+}
+
+
+    
+
+
